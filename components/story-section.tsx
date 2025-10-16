@@ -21,7 +21,7 @@ export function StorySection() {
 
               <p>
                 Produciamo olio extravergine di oliva di altissima qualità con tiratura limitata, utilizzando
-                esclusivamente olive <strong className="text-foreground">Nocellara DOP</strong>e certificazioni di
+                esclusivamente olive <strong className="text-foreground">Nocellara DOP</strong> e certificazioni di
                 produzione biologica per il nostro <strong className="text-foreground">olio IGP EVO</strong>.
               </p>
 

@@ -71,7 +71,7 @@ export function ContactSection() {
 
                 <div>
                   <div className="text-sm uppercase tracking-[0.2em] text-foreground font-medium mb-2">Telefono</div>
-                  <div className="text-foreground">+39 0924 123 456</div>
+                  <div className="text-foreground">+39 320 845 9292</div>
                 </div>
 
                 <div>
